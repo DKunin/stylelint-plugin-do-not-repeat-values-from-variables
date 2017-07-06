@@ -1,0 +1,27 @@
+{
+  "name": "do-not-repeat-color-from-variables",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dkunin/stylelint-plugin-do-not-repeat-color-from-variables.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkunin/stylelint-plugin-do-not-repeat-color-from-variables/issues"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "stylelint": "^7.10.1"
+  },
+  "homepage": "https://github.com/dkunin/stylelint-plugin-do-not-repeat-color-from-variables",
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "variables"
+  ],
+  "license": "MIT",
+  "description": "> This is an example file with default selections."
+}
