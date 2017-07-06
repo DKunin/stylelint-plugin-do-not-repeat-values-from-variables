@@ -54,7 +54,7 @@ module.exports = stylelint.createPlugin(ruleName, function(options = '') {
         });
         errors.forEach(singleError => {
             stylelint.utils.report({
-                ruleName: 'custom-rule',
+                ruleName,
                 result,
                 node: singleError.decl,
                 message: `Used ${singleError.decl.value}, instead of ${singleError.foundUsage.name}`
