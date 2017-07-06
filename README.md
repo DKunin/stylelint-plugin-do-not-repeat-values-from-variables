@@ -8,7 +8,7 @@
 ## Install
 
 ```
-    npm i do-not-repeat-color-from-variables --save-dev
+    npm i do-not-repeat-values-from-variables --save-dev
 ```
 
 ## Usage
@@ -24,11 +24,11 @@ Stylelint config:
             ...
         ],
         plugins: [
-            "do-not-repeat-color-from-variables",
+            "do-not-repeat-values-from-variables",
             ...
         ],
         rules: {
-            "dkunin/do-not-repeat-color-from-variables": 1,
+            "dkunin/do-not-repeat-values-from-variables": 1,
             ...
         }
     };

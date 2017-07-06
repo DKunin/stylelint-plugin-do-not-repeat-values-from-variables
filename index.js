@@ -1,6 +1,6 @@
 const stylelint = require('stylelint');
 
-const ruleName = 'dkunin/do-not-repeat-color-from-variables';
+const ruleName = 'dkunin/do-not-repeat-values-from-variables';
 const fs = require('fs');
 
 // const messages = stylelint.utils.ruleMessages(ruleName, {
