@@ -5,6 +5,8 @@
 - If direct value is used instead of already declared variable
 - If value is used several times and propose a variable
 
+![screen](./assets/screenshot.png)
+
 ## Install
 
 ```
